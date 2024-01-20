@@ -25,6 +25,43 @@
 ![word cloud](https://github.com/TEAM-ES2-DreamTeam/TEAM-ES-2/assets/63381061/73894e32-d848-41d6-be3f-5e8de1683194)
 - Topic : The word cloud below shows key topics in the reviews includes ‘service’, ‘flight’, ‘seat’ , ‘customer service’,  which indicates customers are actively discussing customer service and their experiences.
 
-## Conclusions
-## Recommendations
+
+## Task 2: Predicting customer buying behaviour
+
+## Context
+- How British Airways acquires consumers before their vacation by utilizing data and predictive models
+
+
+## Expected Outcomes
+- Prepare a dataset
+- Train a machine learning model
+- Evaluate and present your findings
+
+## Tools Used
+- Python(Numpy,Pandas and Matplotlib)
+- Python(Scikit learn)
+- Jupyter Notebook
+- Powerpoint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Certification
