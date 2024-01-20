@@ -29,7 +29,7 @@
 ## Task 2: Predicting customer buying behaviour
 
 ## Context
-- How British Airways acquires consumers before their vacation by utilizing data and predictive models
+- Build a predictive model to understand factors that influence buying behaviour
 
 
 ## Expected Outcomes
