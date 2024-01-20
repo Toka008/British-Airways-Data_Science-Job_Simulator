@@ -4,8 +4,8 @@
 ## Task 1: Web scraping to gain company insights
 
 ## Context
-- How British Airways' data scientists use analytical abilities to have a real impact by offering tools, models, and recommendations that inform important business choices.
-
+- Scrape and analyse customer review data to uncover findings for British Airways
+  
 ## Expected Outcomes
 - Scrape and collect customer feedback by analysing third-party data
 - Determine review trends
