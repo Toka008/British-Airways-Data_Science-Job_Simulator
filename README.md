@@ -93,4 +93,3 @@ https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data-S
 
 
 
-## Certification
