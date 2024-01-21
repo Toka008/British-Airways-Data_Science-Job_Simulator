@@ -43,6 +43,17 @@
 - Jupyter Notebook
 - Powerpoint
 
+- 
+## Model Evaluation
+![Screenshot 2024-01-21 104106](https://github.com/Toka008/git-primer/assets/63381061/aec2c1ca-f502-4c3d-87af-643f3601902d)
+- The model's accuracy, which required more development, was roughly 0.7 in Precision and 0.003 in Recall. More customer-centric elements should be included in the model, in my opinion.
+- Based on these measurements, it seems that the model works well in the Negative class(Class 0). However, as the precision, recall, and F1-score for the negative class (Class 1) are lower, the performance is poorer.
+
+## Output
+![feature_importance](https://github.com/Toka008/git-primer/assets/63381061/d2191137-5411-4cb0-a0e7-5b1d280ddc9d)
+- The random forest model ranks purchase_lead (the interval between purchase and departure) as the most significant feature, followed by flight_hour, length_of_stay, flight_duration, and flight_duration.
+- Details concerning the flight, such as its duration and time, were also vital, although the customer's booking origin(Continent) was not.
+
 
 
 
